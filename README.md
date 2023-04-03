@@ -1,0 +1,15 @@
+# backend-study
+
+## 레퍼런스
+- [소개](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc0ODNhMDg4ZDRmZmMwMDYwOWYwZTIyZjNjMjJkYTVmZTM5MDZjY2MiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2NTQ0OTg5OTgsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExNjYxMDAzNDU1OTcyMDg3ODE1MCIsImVtYWlsIjoiamluc29vYnllb25AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsIm5hbWUiOiJKaW5zb28gQnllb24iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKd2lPSTRXTlVyTjV6aGNNX3R4akxDUmI0MWdtMU00TEpxZXR6enM9czk2LWMiLCJnaXZlbl9uYW1lIjoiSmluc29vIiwiZmFtaWx5X25hbWUiOiJCeWVvbiIsImlhdCI6MTY1NDQ5OTI5OCwiZXhwIjoxNjU0NTAyODk4LCJqdGkiOiIzZjQyM2JjNDg3OWRkZjk2MzYwOTZjYzAxODJkOGFlMTY2ZjAyYjA4In0.fWGLeXIJ-AwZixhwdZ7KPrTISbYgto1fP1kLxI4NuUDQhoKFdWDYH0qC2uEkGKMTGY5bWwsU1T5QTGE6ei4HseZuiUzAOsDoMeEItM5OJp7SrEYP1e3-s8fIWm_wGjSmH86XqhQIbplms0ZjKem1-CHFokPuZWSTN3ezV7CaeiF8__AMw3G-kL8652FAxae0y-gd4rUd6WC5JjENLx38HT_Rfle31jW5EXr2mavLkEmkqB1_z6rIMdLfhVJ2upCPyBL2gT4YgrCUQLF9M4PwP4rRz-DJNgqk4WlHVH7VcmqKXb-6wG5SukKR45jjiVBCKYbHjySfjH_vmayB4CMqIQ)
+- [공식 홈페이지](https://realworld-docs.netlify.app/)
+- [데모](https://demo.realworld.io/#/)
+- [API 문서](https://api.realworld.io/api-docs/#/)
+- [Best Practice](https://codebase.show/projects/realworld)
+
+### 1주차 미션
+1. 프로젝트 init
+2. 로컬에서 본인 이름의 브런치 생성
+2. [Endpoints-Authentication Header](https://realworld-docs.netlify.app/docs/specs/backend-specs/endpoints) 구현 후 토큰 콘솔 출력
+3. GitHub로 본인 이름의 브런치 생성하면서 push
+4. **지정된 리뷰이 코드 리뷰 필수!!**
